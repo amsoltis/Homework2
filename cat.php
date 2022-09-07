@@ -9,36 +9,6 @@
   </head>
   <body>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-A3rJD856KowSb7dwlZdYEkO39Gagi7vIsF0jrRAoQmDKKtQBHUuLZ9AsSv4jD4Xa" crossorigin="anonymous"></script>
-  <nav class="navbar navbar-expand-lg bg-light">
-  <div class="container-fluid">
-    <a class="navbar-brand" href="#">Cat</a>
-    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
-    </button>
-    <div class="collapse navbar-collapse" id="navbarNav">
-        <ul class="navbar-nav">
-            <li class="nav-item">
-                <a class="nav-link active" href="./index.html">Home</a>
-            <li class="nav-item">
-                <a class="nav-link" href="./cat.html">Cat</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="./jobhistory.html">Job History</a>
-            </li>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="./author.html">Author</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="./comingsoon.html">Coming Soon</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="./rubric.html">Rubric</a>
-            </li>
-        </ul>
-    </div>
-  </div>
-</nav>
       <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
           <div class="carousel-inner">
               <div class="carousel-item">

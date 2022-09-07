@@ -6,6 +6,6 @@ $var = 5;
 <title>My Page</title>
 </head>
 <body>
-<h2>Your variable was <?php echo $var; ?></h2>
+<h2>Your variable was <?php $var; ?></h2>
 </body>
 </php>

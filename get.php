@@ -15,3 +15,4 @@ E-mail: <input type="text" name="email"><br>
 </form>
   </body>
 </html>
+<?php require_once("footer.php"); ?>

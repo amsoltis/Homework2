@@ -16,7 +16,7 @@
     <div class="collapse navbar-collapse" id="navbarNav">
       <ul class="navbar-nav">
         <li class="nav-item">
-          <a class="nav-link active" aria-current="./index.php" href="#">Home</a>
+          <a class="nav-link active" href="./index.php">Home</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="./cat.php">Cat</a>

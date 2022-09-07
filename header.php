@@ -22,7 +22,7 @@
           <a class="nav-link" href="./cat.php">Cat</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Pricing</a>
+          <a class="nav-link" href="./post.php">Post</a>
         </li>
         <li class="nav-item">
           <a class="nav-link disabled">Disabled</a>

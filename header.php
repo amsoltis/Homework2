@@ -25,7 +25,7 @@
           <a class="nav-link" href="./post.php">Post</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link disabled">Disabled</a>
+          <a class="nav-link active" href="./get.php">Get</a>
         </li>
       </ul>
     </div>

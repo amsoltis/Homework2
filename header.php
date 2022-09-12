@@ -16,7 +16,7 @@
     <div class="collapse navbar-collapse" id="navbarNav">
       <ul class="navbar-nav">
         <li class="nav-item">
-          <a class="nav-link active" href="./index.php">Home</a>
+          <a class="nav-link" href="./index.php">Home</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="./cat.php">Cat</a>
@@ -25,10 +25,7 @@
           <a class="nav-link" href="./post.php">Post</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link active" href="./get.php">Get</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link active" href="./resume.php">Resume</a>
+          <a class="nav-link" href="./get.php">Get</a>
         </li>
       </ul>
     </div>

@@ -27,6 +27,9 @@
         <li class="nav-item">
           <a class="nav-link active" href="./get.php">Get</a>
         </li>
+        <li class="nav-item">
+          <a class="nav-link active" href="./resume.php">Resume</a>
+        </li>
       </ul>
     </div>
   </div>

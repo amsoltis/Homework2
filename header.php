@@ -19,9 +19,6 @@
           <a class="nav-link" href="./index.php">Home</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="./cat.php">Cat</a>
-        </li>
-        <li class="nav-item">
           <a class="nav-link" href="./post.php">Post</a>
         </li>
         <li class="nav-item">

@@ -17,3 +17,4 @@ writeMsg(); // call the function
 <footer>
 <?php require_once("footer.php"); ?>
 </footer>
+

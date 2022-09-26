@@ -15,4 +15,7 @@ Age: <input type="text" name="age"><br>
 </form>
   </body>
 </html>
+
+<footer>
 <?php require_once("footer.php"); ?>
+</footer>

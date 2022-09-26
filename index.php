@@ -5,7 +5,7 @@
   <body>
     <?php
 function writeMsg() {
-  echo "Hello world!";
+  echo "This is my function!";
 }
 
 writeMsg(); // call the function

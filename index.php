@@ -2,16 +2,14 @@
 <?php require_once("header.php"); ?>
 </head>
   
-  <body>
+<body>
     <?php
 function writeMsg() {
   echo "This is my function!";
 }
-
 writeMsg(); // call the function
 ?>
-
-  </body>
+</body>
 
 <footer>
 <?php require_once("footer.php"); ?>

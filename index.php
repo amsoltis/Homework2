@@ -1,3 +1,5 @@
+<html lang="en"><head>
+  
 <head>
 <?php require_once("header.php"); ?>
 </head>

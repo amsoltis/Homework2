@@ -1,4 +1,4 @@
-<html lang="en"><head>
+<html lang="en">
   
 <head>
 <?php require_once("header.php"); ?>
@@ -16,4 +16,5 @@ writeMsg(); // call the function
 <footer>
 <?php require_once("footer.php"); ?>
 </footer>
+</html>
 
